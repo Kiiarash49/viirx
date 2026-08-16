@@ -12,9 +12,9 @@ if (random === 2) {
 }
 
 if (random === 3) {
-        img.src = "pics/viirx-greet-pfp.png"
+    img.src = "pics/viirx-greet-pfp.png"
 }
 
 if (random === 4) {
-        img.src = "pics/viirx-greet2-pfp.png"
+    img.src = "pics/viirx-greet2-pfp.png"
 }
